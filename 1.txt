@@ -2,7 +2,7 @@ arithematic operators in c
 relational operations
 logical operations
 assignment operations
-bit vise operators
+bitwise operators
 conditional operators
 shift operators
 
