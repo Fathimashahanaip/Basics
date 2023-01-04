@@ -1,0 +1,9 @@
+arithematic operators in c
+relational operations
+logical operations
+assignment operations
+bit vise operators
+conditional operators
+shift operators
+
+

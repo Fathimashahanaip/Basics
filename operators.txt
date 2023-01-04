@@ -1,0 +1,125 @@
+1)Arithmetic operators in c
+
+Arithmetic operators are used to perform common mathematical operations.
+
+Operators
++	:add
+eg: c=a+b
+-	:substract
+eg: c=a-b	
+*	:multiplication
+eg: c=a*b
+/	:division
+eg: c=a/b
+%	:division remainder
+eg: c=a%b
+++	:increment the value of a variable by 1
+eg: ++a
+--	:1 degrement the value of a variable by 1
+eg: ++b
+
+2)Relational Operators in c
+
+Relational operators are used to create realtions and compare the value of two operants.
+
+Operators
+equals to(==)   : it compare two operants and return 1 if both operants are same
+eg:a==b
+not equals(!=) : it compare two operants and return 1 if both operants are not same
+eg:a!=b
+less than(<)   :it check whether the left operant is less than the right operant
+eg:a<b
+greater than(>): it check whether the left operant is greater than right operant
+eg:a>b
+less than or equals to(<=)   : it check whether the left operant is less than or equals to right operant
+eg:a<=b
+greater than or equals to(>=): it check whether the left operant is greater than or equals to right operant
+eg:a>=b
+
+3)Logical operations in c
+
+Logic operations are used to find logics between two operants
+
+operators
+
+&&	:And
+eg: x<5&&x<10
+||	:OR
+eg:x<5||x<10
+!	:Not
+eg:!(x<3&&x<10)
+
+
+4)Assignment operators in c
+
+Assignment operators are used to assign values to variables
+
+
+operators
+
+=	:eg:x=4
++=	:eg:x+=4 is same as x=x+4
+-=	:eg:x-=4 is same as x=x-4
+*=	:eg:x*=4 is same as x=x*4
+/=	:eg:x/=4 is same as x=x/4
+%=	:eg:x%=4 is same as x=x%4
+&=	:eg:x&=4 is same as x=x&4
+|=	:eg:x|=4 is same as x=x|4
+!=	:eg:x!=4 is same as x=x!4
+^=	:eg:x^=4 is same as x=x^4
+<<=	:eg:x<<=4 is same as x=x<<4
+>>=	:eg:x>>=4 is same as x>>4
+
+
+
+5)Bitwise operators
+
+
+bitwise operators are used to perform operations on bit level
+
+operators
+
+bitwise And(&)	:
+eg:a=0110
+   b=0100
+   Result=0100
+bitwise OR(|)	:
+eg:a=0110
+   b=0100
+   c=0110
+bitwise excusive OR(^)
+
+bitwise compliment operation(~):
+eg a=0110
+   result=1001
+
+
+6)Conditional operators
+
+conditional operators are decision making statements which depend upon the output of the expressions 
+
+syntax
+expression1?expression2:expression3;
+
+eg: b=((a==5)?(3):(2));
+
+
+7)Shift Operators
+
+
+shift operators is used to shift the binary bits either left direction or right direction according the program's requirements.
+
+types
+1)left shift  : used to shift the binary bits to left
+eg:num=(num<<2) 
+2)right shift : used to shift the binary bits to right
+eg:num=(num>>2)
+
+
+
+
+
+
+
+
+
